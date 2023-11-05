@@ -2,9 +2,6 @@
 using namespace std;
 
 int main() {
-
-	cout << "Jenney" << endl;
-	cout << "chenlinfang" << endl;
-	
+	cout << "hello from 2" << endl;
 	return 0;
 }
